@@ -50,5 +50,4 @@ Data yang terlihat akan sesuai dengan yang dipilih
 Tampilan akan sesuai seperti di video bawah ini, terlihat bahwa pilihan pertema di *disable* dan
 hanya bisa memilih sesuai opsi yang ada, jika ingin melihat pilihan pertama maka website harus di *restart*
 
-![Demo](src/out.gif)
 </details>
