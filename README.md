@@ -18,7 +18,7 @@ Data yang saya buat berjumlah 10 data mahasiswa
 </details>
 
 <details>
-<summary> Pertama Kali Dijalankan </summary>
+<summary> Tampilan Awal </summary>
 
 Data yang ditampilkan masih kosong karena belum memilih *opsi* program studi yang ada
 
@@ -34,7 +34,7 @@ Tampilan ini saya buat agar penggantian data yang dipilih dapat terlihat dengan 
 </details>
 
 <details>
-<summary> Hasil akhir </summary>
+<summary> Tampilan Akhir </summary>
 
 Data yang ditampilkan sesuai dengan opsi yang dipilih
 
