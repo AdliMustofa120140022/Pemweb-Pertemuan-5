@@ -1,53 +1,33 @@
 # Pertemuan 5
 Tugas Praktikum Pemrogram Web Jadwal A Pertemuan 5
 
-Adli Mustofa-120140022
+Adli Mustofa - 120140022
 
-> Membuat aplikasi web yang dapat menampilkan data mahasiswa ketika pengguna melakukan 
-perubahan pada pilihan program studi yang tersedia menggunakan bantuan AJAX.
-> - Aplikasi terhubung ke database yang memiliki tabel mahasiswa dengan minimal 3 data
-yaitu NIM, Nama, dan Program Studi.
+> Membuat aplikasi web yang dapat menampilkan data mahasiswa menggunakan dukungan AJAX saat pengguna melakukan perubahan pada pilihan program studi yang tersedia.
+> - Aplikasi terhubung ke database yang memiliki tabel mahasiswa dengan minimal 3 data yaitu NIM, Nama, dan Program Studi.
 > - Terdapat minimal 10 baris data mahasiswa.
 
-Berikut dibawah ini merupakan hasil dari tugas yang dikerjakan
+Di bawah ini adalah hasil pekerjaan yang dilakukan
 <details>
-<summary>Data Tabel</summary>
-
+<summary> Data Tabel </summary>
 Data yang saya buat berjumlah 10 data mahasiswa
-
 ![Data Mahasiswa](src/data-table.png)
 </details>
 
 <details>
-<summary>Pertama Kali Dijalankan</summary>
-
-Data yang terlihat masih kosong karena belum memilih *option* yang ada
-
+<summary> Pertama Kali Dijalankan </summary>
+Data yang ditampilkan masih kosong karena belum memilih *opsi* program studi yang ada
 ![Output1](src/output-1.png)
 </details>
 
 <details>
-<summary>Proses Loading </summary>
-
-Tampilan ini saya buat agar pergantian data yang dipilih akan terlihat jelas
-
+<summary> Proses Loading </summary>
+Tampilan ini saya buat agar penggantian data yang dipilih dapat terlihat dengan jelas
 ![Output2](src/output-2.png)
 </details>
 
 <details>
-<summary>Hasil akhir</summary>
-
-Data yang terlihat akan sesuai dengan yang dipilih
-
+<summary> Hasil akhir </summary>
+Data yang ditampilkan sesuai dengan opsi yang dipilih
 ![Output3](src/output-3.png)
-</details>
-
-
-<details>
-<summary>Demo Singkat
-</summary>
-
-Tampilan akan sesuai seperti di video bawah ini, terlihat bahwa pilihan pertema di *disable* dan
-hanya bisa memilih sesuai opsi yang ada, jika ingin melihat pilihan pertama maka website harus di *restart*
-
 </details>
